@@ -127,3 +127,9 @@ function difference3() {
         document.getElementById("newnum1").innerHTML = "when n is less or equal than 19, then result is: " + (n - 19);
     }
 }
+//nothing
+document.getElementById("nothing").innerHTML="Hello Bangladesh";
+
+
+
+
